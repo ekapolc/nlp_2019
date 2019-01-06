@@ -1,4 +1,4 @@
-# HW0 Hello GCloud #
+# HW1 Hello GCloud #
 
 Setup a GCloud account by following the instructions in [GCloud setup](../gcloud/README.md)
 
