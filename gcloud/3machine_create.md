@@ -38,10 +38,10 @@ Now that you have created your virtual GCE, you want to be able to connect to it
 
 where <YOUR-INSTANCE-NAME> should be homework. Another method is to click the **SSH** button next to the instance name to open a connection via the browser window. See [this page](https://cloud.google.com/compute/docs/instances/connecting-to-instance) for more detailed instructions. You are now ready to work on Google Cloud. 
 
-You should be logged in with the same name as your username on your local computer. We have setup the development environment under my user account (ekapolc). To switch user, do
+You should be logged in with the same name as your username on your local computer. We have setup the development environment under my user account (burin). To switch user, do
 
 ```
-sudo su ekapolc
+sudo su burin
 ```
 
 You will notice that you are now under my user account.
