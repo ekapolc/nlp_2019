@@ -45,14 +45,14 @@ Add another firewall rule for Tensorboard (we will use this later in the class).
 ### Configuring Jupyter Notebook ###
 The following instructions are excerpts from [this page](https://haroldsoh.com/2016/04/28/set-up-anaconda-ipython-tensorflow-julia-on-a-google-compute-engine-vm/) that has more detailed instructions.
 
-The Jupyter configuration file `jupyter_notebook_config.py` is the default config file, jupyter uses when starting. We will create one by (assuming you are login as ekapolc and already activate the virtualenv)
+The Jupyter configuration file `jupyter_notebook_config.py` is the default config file, jupyter uses when starting. We will create one by (assuming you are login as burin and already activate the virtualenv)
 
 ```
 rm ~/.jupyter/jupyter_notebook_config.py
 jupyter notebook --generate-config
 ```
 
-Using your favorite editor (vim, emacs etc...) add the following lines to the config file, (e.g.: /home/ekapolc/.jupyter/jupyter_notebook_config.py):
+Using your favorite editor (vim, emacs etc...) add the following lines to the config file, (e.g.: /home/burin/.jupyter/jupyter_notebook_config.py):
 
 ```
 c = get_config()
@@ -100,8 +100,8 @@ mv mycert.pem ~/.jupyter/
 Update your `jupyter_notebook_config.py` with
 
 ```
-c.NotebookApp.keyfile = '/home/ekapolc/.jupyter/mykey.key'
-c.NotebookApp.certfile = '/home/ekapolc/.jupyter/mycert.pem'
+c.NotebookApp.keyfile = '/home/burin/.jupyter/mykey.key'
+c.NotebookApp.certfile = '/home/burin/.jupyter/mycert.pem'
 ```
 
 Now you are done with the setup and ready to access your Notebook
