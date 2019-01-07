@@ -8,6 +8,6 @@ If you want to do this assignment on GCloud, you can download the ipython notebo
 wget --no-check-certificate https://raw.githubusercontent.com/ekapolc/nlp_2019/master/HW1/hw1_dictionary_based_tokenization.ipynb 
 ```
 
-Submit the completed notebook file on MyCourseVille (4 points total, 2 points for each task)
+Submit the completed notebook file on MyCourseVille (10 points total, 5 points for each task)
 
 
