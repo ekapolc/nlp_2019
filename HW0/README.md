@@ -9,9 +9,9 @@ On the VM machine run
 wget --no-check-certificate https://raw.githubusercontent.com/ekapolc/nlp_course/master/HW0/mnist_keras.ipynb
 ```
 
-Run the file using Jupyter. After finishing, upload the .ipynb file to courseville. (5 points)
+Run the file using Jupyter. After finishing, upload the .ipynb file to courseville. (0.5 points)
 
-Finally, **shut-down** the instance and take a screenshot of the console page confirming that you closed the instance. Upload the screenshot to courseville. (5 points)
+Finally, **shut-down** the instance and take a screenshot of the console page confirming that you closed the instance. Upload the screenshot to courseville. (0.5 points)
 
 Don't forget to watch this video to get yourself familar with some basics of neural networks before lecture 2. Click on the image to view in Youtube.
 
