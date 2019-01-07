@@ -2,7 +2,7 @@
 
 Note: You don't need GPU or GCloud VM to complete this assignment. 
 
-If you want to do this assignment on GCloud, you can download the ipython notebook using to following command:
+If you want to do this assignment on GCloud, you can download the ipython notebook using the following command:
 
 ```
 wget --no-check-certificate https://raw.githubusercontent.com/ekapolc/nlp_2019/master/HW1/hw1_dictionary_based_tokenization.ipynb 
