@@ -4,8 +4,8 @@
 Open your VM and download the jupyter notebook file and BEST2010 data
 
 ```
-wget --no-check-certificate https://raw.githubusercontent.com/ekapolc/nlp_course/master/HW2/LanguageModeling.ipynb
-wget --no-check-certificate https://raw.githubusercontent.com/ekapolc/nlp_course/master/HW2/BEST2010.zip
+wget --no-check-certificate https://raw.githubusercontent.com/ekapolc/nlp_2019/master/HW4/Language-Modeling-student.ipynb
+wget --no-check-certificate https://github.com/ekapolc/nlp_2019/raw/master/HW4/BEST2010.zip
 unzip BEST2010.zip
 ```
 
