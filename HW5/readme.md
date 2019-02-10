@@ -5,6 +5,7 @@ Open your VM and download the jupyter notebook file and BEST2010 data
 Note that this BEST2010 dataset has not been preprocessed, it contains the same content as the one on NECTEC's website.  You might have to move your previous BEST2010 dataset elsewhere. 
 
 ```
+sh download-font.sh
 mv BEST2010 BEST2010-prev
 wget --no-check-certificate https://raw.githubusercontent.com/ekapolc/nlp_2019/master/HW5/thai_skip_gram_demo.ipynb
 wget --no-check-certificate https://raw.githubusercontent.com/ekapolc/nlp_2019/master/HW5/thai_skip_gram_homework_for_student.ipynb
