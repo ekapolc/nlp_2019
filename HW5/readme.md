@@ -19,7 +19,7 @@ wget --no-check-certificate https://www.dropbox.com/s/rbhufb6uy22k338/my_skipgra
 If you have issue with character encoding, you might have to do the following:
 ```
 import codecs
-with codec.open(cwd+"/corpora/wiki/thwiki_chk.txt", encoding='utf-8') as f:
+with codecs.open(cwd+"/corpora/wiki/thwiki_chk.txt", encoding='utf-8') as f:
 	......
 ```
 
