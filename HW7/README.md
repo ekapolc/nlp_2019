@@ -10,4 +10,4 @@ unzip hw7.zip
 
 ```
 
-Complete `HW7-parsing.ipynb.ipynb` and submit the ipynb file to mycourseville (1 points per todo)
+Complete `HW7-parsing.ipynb` and submit the ipynb file to mycourseville (1 points per todo)
